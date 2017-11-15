@@ -1,0 +1,2 @@
+# SimpleBloggerTemplate
+My First Template
